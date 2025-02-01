@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=30&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=435&lines=%D0%A1%D1%82%D1%80%D0%BE%D0%B8%D1%82%D1%8C+%D0%B1%D1%83%D0%B4%D1%83%D1%89%D0%B5%D0%B5+%D0%BC%D1%8B+%D0%BF%D1%80%D0%B8%D1%88%D0%BB%D0%B8!" alt="Девиз" />
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=28&duration=4500&pause=1500&color=FFD700&center=true&vCenter=true&width=500&lines=%D0%A1%D1%82%D1%80%D0%BE%D0%B8%D1%82%D1%8C+%D0%B1%D1%83%D0%B4%D1%83%D1%89%D0%B5%D0%B5+%D0%BC%D1%8B+%D0%BF%D1%80%D0%B8%D1%88%D0%BB%D0%B8!" alt="Девиз" />
 </p>
 
 ---
